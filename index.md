@@ -1,4 +1,6 @@
-## Welcome to my personal site!
+## Jesse Wang
+
+# Welcome to my personal site!
 
 My name is Jesse Wang, and I am currently a student in Computer Engineering at the University of Illinois at Urbana-Champaign.
 
