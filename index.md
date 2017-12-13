@@ -10,6 +10,7 @@ Some current projects I am/have worked on:
 [League of Legends Player Analyzer](https://www.youtube.com/watch?v=MDglMvOHuYM/)
 
 Contact Me
+
 Email: jessejw2@illinois.edu
 
 If you're still reading, enjoy solving this secret message: db9c1e261f65404aa0d58b28ee06084342f2417dbe1f6ee80062abbe477cf088
