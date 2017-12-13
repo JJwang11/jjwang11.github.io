@@ -9,7 +9,7 @@ There's currently not much here, but I plan to add more.
 Some current projects I am/have worked on:
 [League of Legends Player Analyzer](https://www.youtube.com/watch?v=MDglMvOHuYM/)
 
-Contact Me
+# Contact Me
 
 Email: jessejw2@illinois.edu
 
